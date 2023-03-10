@@ -3,7 +3,7 @@ package com.string;
 public class StringDemo {
 
 	public static void main(String[] args) {
-		
+		System.out.println("hi");
 		
 //		String s1 ="abc";//using string literals
 //		String s2 ="abc";
